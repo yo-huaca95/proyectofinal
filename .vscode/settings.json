@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\ARCHIVOS\\Desktop\\TDS\\MINTIC 2\\sqlite-jdbc-3.36.0.1.jar"
+    ]
+}
